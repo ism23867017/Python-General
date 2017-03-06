@@ -1,0 +1,13 @@
+##Introducimos un numero y nos dira si es par o impar##
+
+
+#coding: utf8
+
+num = input("Introduzca el numero:")
+
+if num%2 == 0:
+	print "Es par"
+
+else:
+	if num%2!= 0:
+		print "Es impar"  
