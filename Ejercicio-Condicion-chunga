@@ -1,0 +1,15 @@
+##Indica que numeros del <10 al 40 son pares o impares##
+
+
+#coding: utf8	
+
+num = input("Introduzca un numero:")
+
+if (num >= -10 and num <=40) and num%2 == 0:
+	print "Es par"
+
+else:
+	if (num >= -10 and num <=40) and num%2!= 0:
+		print "Es impar"
+	
+
