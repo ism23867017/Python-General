@@ -1,0 +1,8 @@
+##Si tienes de 18 a 24 puedes pasar, y solo hoy los de 17 tambien##
+
+#coding: utf8
+
+edad = input("Introduzca su edad:")
+
+if (edad >=18 and edad <=24) or edad == 17:
+	print "Puede pasar" 
