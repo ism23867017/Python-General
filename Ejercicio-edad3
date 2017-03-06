@@ -6,3 +6,5 @@ edad = input("Introduzca su edad:")
 
 if (edad >=18 and edad <=24) or edad == 17:
 	print "Puede pasar" 
+
+<a href="https://drive.google.com/file/d/0B1zJkiLKJ9mYUWtOTHdheVFpUWc/view"><img src="https://drive.google.com/file/d/0B1zJkiLKJ9mYUWtOTHdheVFpUWc/view" /></a>
