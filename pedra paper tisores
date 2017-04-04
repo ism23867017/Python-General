@@ -48,9 +48,9 @@ while exit == False:
 		
 		print "Empate"
 		
-contador = contador + 1 	
+	contador = contador + 1 	
 
-if contador == 10:
+	if contador == 10:
 		exit = True
 		
 	##No fa be el bucle y no trobo manera de que funcioni##
