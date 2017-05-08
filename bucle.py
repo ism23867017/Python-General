@@ -16,6 +16,7 @@ while (opcionmain == False):
 	
 if (opcionmain == 'S' or opcionmain == 's'):
 	print "Adios"
+salir = True
 		
 if (opcionmain == 1):
 		variable1 = input("Introduzca el numero :")
